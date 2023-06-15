@@ -1,5 +1,5 @@
 {
-  "name": "@zoey-t/solidity-parser",
+  "name": "@zoey-t/parser",
   "version": "0.0.1",
   "description": "A Solidity parser built from a robust ANTLR 4 grammar",
   "main": "./dist/index.iife.js",
