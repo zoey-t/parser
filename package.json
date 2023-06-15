@@ -2,7 +2,7 @@
   "name": "@zoey-t/solidity-parser",
   "version": "0.0.1",
   "description": "A Solidity parser built from a robust ANTLR 4 grammar",
-  "main": "dist/index.iife.js",
+  "main": "./dist/index.iife.js",
   "browser": {
     "fs": false,
     "path": false
